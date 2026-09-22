@@ -1,3 +1,5 @@
+# trigger build
+
 [package]
 name = "rustdesk"
 version = "1.5.0"
